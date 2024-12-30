@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hospital Management System - HexSoftwares</title>
@@ -32,9 +33,11 @@
         }
     </style>
 </head>
+
+
+    
 <body>
     <h1>Hospital Management System</h1>
-    <p><strong>Developer:</strong> HexSoftwares</p>
     <p>A robust hospital management system designed to streamline healthcare operations. Built using <strong>JavaFX</strong>, <strong>CSS</strong>, <strong>FXML</strong>, and <strong>MySQL</strong>, this system incorporates key features to meet real-world healthcare needs.</p>
     <h2>Features</h2>
     <ul class="features">
@@ -47,13 +50,13 @@
     <h2>Getting Started</h2>
     <p>To explore or contribute to this project:</p>
     <ol>
-        <li>Clone the repository: <code>git clone [repository_url]</code></li>
+        <li>Clone the repository: <code>git clone https://github.com/JoTsav/hospital-management-system.git </code></li>
         <li>Ensure JavaFX and MySQL are installed and configured.</li>
         <li>Run the application and connect it to your MySQL database.</li>
     </ol>
     <h2>About HexSoftwares</h2>
     <p>At HexSoftwares, we specialize in developing innovative and reliable software solutions tailored to various industries.</p>
     <h2>License</h2>
-    <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+    <p>This project is licensed under the MIT License.</p>
 </body>
 </html>
